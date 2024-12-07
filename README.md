@@ -37,10 +37,6 @@ Please check out the [Getting Started](https://github.com/quasar/Quasar/wiki/Get
 * Password Recovery (Common Browsers and FTP Clients)
 * ... and many more!
 
-## Download
-* [Latest stable release](https://github.com/quasar/Quasar/releases) (recommended)
-* [Latest development snapshot](https://ci.appveyor.com/project/MaxXor/quasar)
-
 ## Supported runtimes and operating systems
 * .NET Framework 4.5.2 or higher
 * Supported operating systems (32- and 64-bit)

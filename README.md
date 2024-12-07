@@ -63,7 +63,10 @@ See [ROADMAP.md](ROADMAP.md)
 Quasar is distributed under the [MIT License](LICENSE).  
 Third-party licenses are located [here](Licenses).
 
-## Made by poab. on discord
+
+## Creator
+Made by poab. on discord.
+
 
 ## Thank you!
 I really appreciate all kinds of feedback and contributions. Thanks for using and supporting Quasar!
